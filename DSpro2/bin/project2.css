@@ -1,0 +1,18 @@
+.button {
+    -fx-font: 20px "Serif";
+    -fx-text-fill: #000000;
+    -fx-padding: 10;
+    -fx-background-color: #008080;
+    -fx-pref-width:160;
+    -fx-height:25;
+}
+   
+.text-area {
+    -fx-font: 22px "Courier new";
+    -fx-text-fill: #ffffff;
+    -fx-display-caret:true;
+}
+
+.text-area .content {
+    -fx-background-color: #00005C;
+}    
